@@ -6,7 +6,7 @@ Sistema educacional em **C#** que demonstra o uso prático de variáveis `bool` 
 
 ## Objetivo
 
-Ensinar conceitos fundamentais de programação:
+Praticar conceitos fundamentais de programação:
 - Uso de variáveis booleanas (`bool`)
 - Operadores lógicos (`&&`, `||`, `!`)
 - Validação de entrada de dados
